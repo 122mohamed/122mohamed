@@ -7,6 +7,10 @@
   <img src="https://komarev.com/ghpvc/?username=122mohamed&style=for-the-badge&color=00C853" alt="Profile views"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Open%20to%20Work-Yes-success?style=for-the-badge" />
+  &nbsp;
+  <a href="https://122mohamed.github.io/mo-elshabrawy/">
+    <img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
   
   <br><br>
 
@@ -132,6 +136,10 @@ Passionate about delivering scalable, maintainable, and user-centric application
   &nbsp;
   <a href="https://linkedin.com/in/moshabrawyflutterdev">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://122mohamed.github.io/mo-elshabrawy/">
+    <img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   &nbsp;
   <a href="mailto:melshebrawy428@gmail.com">
