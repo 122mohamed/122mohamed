@@ -4,13 +4,15 @@
 
   <br><br>
 
+  <a href="https://122mohamed.github.io/mo-elshabrawy/">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-FFD700?style=for-the-badge&logoColor=black&labelColor=FFD700&color=FFD700" height="42" />
+  </a>
+
+  <br><br>
+
   <img src="https://komarev.com/ghpvc/?username=122mohamed&style=for-the-badge&color=00C853" alt="Profile views"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Open%20to%20Work-Yes-success?style=for-the-badge" />
-  &nbsp;
-  <a href="https://122mohamed.github.io/mo-elshabrawy/">
-    <img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
   
   <br><br>
 
@@ -22,7 +24,6 @@
   📍 Cairo, Egypt &nbsp;|&nbsp; 📧 melshebrawy428@gmail.com
 
 </div>
-
 ---
 
 ### 🐍 Contribution Snake
