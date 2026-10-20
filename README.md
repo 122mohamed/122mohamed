@@ -5,7 +5,7 @@
   <br><br>
 
   <a href="https://122mohamed.github.io/mo-elshabrawy/">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-FFD700?style=for-the-badge&logoColor=black&labelColor=FFD700&color=FFD700" height="42" width="300"/>
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-FFD700?style=for-the-badge&logoColor=red&labelColor=FFD700&color=FFD700" height="42" width="300"/>
   </a>
 
   <br><br>
